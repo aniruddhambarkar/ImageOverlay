@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ImageOverlay">
+        <attr name="point_drawable" format="reference"></attr>
+        <attr name="point_size" format="dimension"></attr>
+    </declare-styleable>
+
+</resources>
