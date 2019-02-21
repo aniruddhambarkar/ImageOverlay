@@ -21,6 +21,7 @@ Add it in your root build.gradle at the end of repositories:
 
 Example
 1.  Include View in your XML
+
 <com.aniruddhambarkar.ImageOverlay
         android:id="@+id/imageOverlay"
         android:layout_width="match_parent"
