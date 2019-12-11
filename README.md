@@ -48,7 +48,7 @@ Example
 	 ImageOverlay imageOverlay;
 	 imageOverlay = findViewById(R.id.imageOverlay);
 
-	 <b>Setting Points on View</b>
+ <b>Setting Points on View</b>
 
 	  ArrayList<PointView> pointViews = new ArrayList<>();
 		PointView pointView = new PointView();
@@ -63,7 +63,7 @@ Example
 	 ArrayList<PointView> pointViews = new ArrayList<>();
 	 pointViews = imageOverlay.getPointViews();
 
-	 <b>Clearing all Points from View</b>
+<b>Clearing all Points from View</b>
 	 imageOverlay.clearOverlays();
  
  Specific view can be deleted by clicking/accessing it and removing it from view
