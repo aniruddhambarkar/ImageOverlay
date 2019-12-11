@@ -4,7 +4,7 @@ Features covered are
 1. Includes setting overlay points on ImageView
 2. Adding new and updating existing overlays
 
-<b>Usage<b>
+<b>Usage</b>
 
 Including library 
 Add it in your root build.gradle at the end of repositories:
