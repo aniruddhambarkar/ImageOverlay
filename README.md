@@ -37,6 +37,7 @@ Example
 			
         
  Supported attributes
+ 
 		 point_drawable: To customize drawable to show for points over image
 		 point_size : dimension of default point
 		 
